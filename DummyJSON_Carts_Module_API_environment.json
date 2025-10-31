@@ -1,0 +1,15 @@
+{
+	"id": "c00710ee-f3cb-46ba-9a60-c10938df0122",
+	"name": "Url",
+	"values": [
+		{
+			"key": "Url",
+			"value": "https://dummyjson.com/carts",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-10-31T14:54:11.217Z",
+	"_postman_exported_using": "Postman/11.69.6"
+}
